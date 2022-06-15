@@ -1,6 +1,58 @@
-h1 {
-    color:teal}
-h2 {
-    background-color:teal}
+/*colors*/
+    h1 {
+        color:teal}
+    h2 {
+        background-color:teal
+        color:aliceblue
+    }
+    p {
+        color:rgb(31, 35, 31)
+    }
+/*font*/
+
+
+    body {
+            font-family: sans-serif, serif;
+            font-size: medium;
+        }
+    h1 {
+            font-size: larger;
+        }
+    h2 {
+            font-size: large;
+        }
+
+/*spacing of words and texts*/
+h1,h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.2em;}
+.credits {
+    font-weight: bold;
+    word-spacing: 0.5em;
+}
+/*boxes settings*/
+div{
+    height: 300px;
+    width: 400px;
+    background-color: khaki;
+}
+p{
+    height: 75%;
+    width: 75%;
+    background-color: beige;
+}
+
+/*in case of overflow of text*/
 p {
-    color:rgb(31, 35, 31)}
+    overflow:scroll;
+}
+
+p {
+    border-width:thick;
+
+}
+
+img {
+    float:left;
+    margin-right: 10px
+}
