@@ -1,11 +1,13 @@
 /*colors*/
     h1 {
+        background-color:bisque;
         color:teal}
     h2 {
         background-color:teal
-        color:aliceblue
+        color : bisque
     }
     p {
+        background-color: bisque;
         color:rgb(31, 35, 31)
     }
 /*font*/
@@ -25,34 +27,63 @@
 /*spacing of words and texts*/
 h1,h2 {
     text-transform: uppercase;
-    letter-spacing: 0.2em;}
-.credits {
+    letter-spacing: 0.1em;}
+.articles {
     font-weight: bold;
-    word-spacing: 0.5em;
+    word-spacing: 0.2em;
 }
 /*boxes settings*/
-div{
+
+p.articles {
+    width: auto
+    border : 2px solid #0088dd;
+}
+div.articles{
     height: 300px;
     width: 400px;
-    background-color: khaki;
+    background-color: rgb(216, 218, 233);
 }
-p{
+p.articles{
     height: 75%;
     width: 75%;
     background-color: beige;
 }
 
 /*in case of overflow of text*/
-p {
+
+p.articles {
     overflow:scroll;
 }
 
-p {
+p.articles {
     border-width:thick;
 
 }
 
-img {
+img.articles {
     float:left;
     margin-right: 10px
 }
+
+fieldset
+{
+    width:350px;
+    border:1px solid #dcdcdc
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+    padding: 10px 20px
+    text-align:left
+    text-transform: uppercase;
+}
+
+div.articles
+    body{
+
+    background-color: rgba(255, 255, 104, 0.416);
+    width: 300px;
+    border: 15px solid rgb(86, 72, 133);
+    padding: 50px;
+    margin: 20px;
+    }
