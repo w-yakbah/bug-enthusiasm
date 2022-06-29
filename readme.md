@@ -1,3 +1,3 @@
 #EN : this website is supposed to be a demo for my web development skills. it shows my appreciation to many bugs all around the world. all sources are linked to give credits, and the website is accessible to disabled people.
 
-#FR : ce site web est censée être une démonstration afin de montrer mes compétences en développement web. Ce site web montre mon appréciation pour tous les insectes autour du monde. Toutes les sources (faits ou encore image), et le site web est accessible envers les personnes aveugles, sourdes et malentendantes en source.
+#FR : ce site web est censé être une démonstration afin de montrer mes compétences en développement web. Ce site web montre mon appréciation pour tous les insectes autour du monde. Toutes les sources (faits ou encore image), et le site web est accessible envers les personnes aveugles, sourdes et malentendantes en source.
